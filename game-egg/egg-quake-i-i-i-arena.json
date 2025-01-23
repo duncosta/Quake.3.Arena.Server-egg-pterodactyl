@@ -1,5 +1,5 @@
 {
-    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY",
     "meta": {
         "version": "PTDL_v2",
         "update_url": null
@@ -34,7 +34,7 @@
             "name": "Server Name",
             "description": "The Name that will show up in the Serverbrowser",
             "env_variable": "SERVER_NAME",
-            "default_value": "\"QUAKE 3 ARENA\"",
+            "default_value": "QUAKE 3 ARENA",
             "user_viewable": true,
             "user_editable": true,
             "rules": "required|string|max:70",
